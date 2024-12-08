@@ -1,9 +1,7 @@
 # Next-Gen Secure IoT: Multi-Protocol Embedded Systems for Industry 4.0
-
-![Build Status](https://img.shields.io/github/workflow/status/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0/CI)
 ![License](https://img.shields.io/github/license/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0)
-![Issues](https://img.shields.io/github/issues/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0)
-![Version](https://img.shields.io/github/v/tag/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0)
+![License](https://img.shields.io/github/license/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0)
+
 
 
 # Next-Gen Secure IoT: Multi-Protocol Embedded Systems for Industry 4.0
