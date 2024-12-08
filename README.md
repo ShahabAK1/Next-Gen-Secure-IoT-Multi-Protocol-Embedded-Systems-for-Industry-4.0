@@ -4,11 +4,6 @@
 ![Stars](https://img.shields.io/github/stars/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0?style=social)
 ![Contributors](https://img.shields.io/github/contributors/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0)
 
-
-
-
-# Next-Gen Secure IoT: Multi-Protocol Embedded Systems for Industry 4.0
-
 ## Overview
 This project demonstrates the development of a **secure and multi-protocol embedded system** designed for **Industry 4.0** applications. By utilizing the **STM32** and **ESP32** platforms, this system seamlessly integrates **UART**, **I2C**, and **One-Wire** communication protocols to manage real-time data from various sensors. The system ensures efficient, secure data transmission for industrial automation, providing a cutting-edge solution to the modern IoT challenges.
 
