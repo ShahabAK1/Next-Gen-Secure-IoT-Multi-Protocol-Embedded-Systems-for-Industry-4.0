@@ -1,0 +1,2 @@
+# Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0
+Revolutionizing Industrial IoT with a Next-Gen Secure Embedded System. Leveraging STM32 &amp; ESP32, this multi-protocol solution (UART, I2C, One-Wire) integrates real-time sensor data (DS18B20, MPU6050, PIR) with secure wireless communication. Perfect for Industry 4.0, this project showcases cutting-edge embedded system design and IoT connectivity
