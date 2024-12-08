@@ -1,6 +1,5 @@
 # Next-Gen Secure IoT: Multi-Protocol Embedded Systems for Industry 4.0
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/github/workflow/status/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0/CI)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Forks](https://img.shields.io/github/forks/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0?style=social)
 ![Stars](https://img.shields.io/github/stars/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0?style=social)
 ![Contributors](https://img.shields.io/github/contributors/ShahabAK1/Next-Gen-Secure-IoT-Multi-Protocol-Embedded-Systems-for-Industry-4.0)
