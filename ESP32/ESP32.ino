@@ -22,8 +22,8 @@
 #define BAUD_RATE 9600
 
 // Wi-Fi credentials
-const char* ssid = "Internet_2.4GHz@unifi";
-const char* password = "1to5&6to10";
+const char* ssid = " ";
+const char* password = " ";
 
 // Server URL
 const String serverUrl = "http://192.168.0.101:5000/insertData";
